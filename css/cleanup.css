@@ -3,10 +3,10 @@
   display:none;
 }
 
-#parent~#tag-4 {
+#tag-4 {
   display:none;
 }
 
-#wall ~ div[id = "tag-3"][class= "wicked"] {
+#tag-2{
   display:none;
 }
