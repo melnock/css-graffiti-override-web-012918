@@ -7,11 +7,11 @@
   display:none;
 }
 
-div ~ #tag-2{
+div#wall ~ #tag-2{
   display:none;
 }
 
-#tag-3{
+#tag-3.wicked{
   display:none;
 }
 
